@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aya</h1>
 <h3 align="center">Ambitious Full-stack Developer from Morocco</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif"
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
 <h4 align="left">💡  I'm passionate about exploring emerging technologies and creating software solutions, often experimenting with quick hacks.</h4>
 <h4 align="left">🎓 Currently pursuing a degree in Computer Science at the Private University of Fez, focusing on Business Intelligence and Web Development.</h4>
